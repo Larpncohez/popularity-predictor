@@ -1,2 +1,2 @@
 # popularity-predictor
-eee
+This program will require the google api client for python, which can be found with installation instructions here: https://github.com/Larpncohez/popularity-predictor
